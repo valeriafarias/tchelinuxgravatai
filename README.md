@@ -1,0 +1,2 @@
+# tchelinuxgravatai
+Apresentação Zabbix
